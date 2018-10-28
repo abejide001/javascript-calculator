@@ -1,0 +1,8 @@
+#calc-container{
+  line-height: 2.0em;
+  color:peru;
+  padding:4px;
+  width:300px;
+  position: relative;
+  border:2px solid blue;
+}
